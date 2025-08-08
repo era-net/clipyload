@@ -63,7 +63,7 @@ Output:
 working ⣷
 ```
 
-Keep on reading to see all the available parameters for the **`load`**() function.
+Keep on reading to see all the available parameters for the **`load()`** function.
 
 
 # The load() function
